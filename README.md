@@ -1,3 +1,13 @@
+# 🌱 Agriculture Crop Recommendation System
+
+## 👨‍💻 Contributors
+
+| Name            | GitHub Profile                                                   |
+|-----------------|------------------------------------------------------------------|
+| Lok Vinay       | [@LokVinay](https://github.com/LokVinay)                         |
+| Pratheek Reddy  | [@ReddammagariPratheekReddy](https://github.com/ReddammagariPratheekReddy) |
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
