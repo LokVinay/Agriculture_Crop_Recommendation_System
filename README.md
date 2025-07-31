@@ -10,9 +10,10 @@
 
 # 📸 Preview
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/45414ed5-a950-413b-9938-3cbf10d46986" style="width: 48%; margin-right: 1%;">
-  <img src="https://github.com/user-attachments/assets/28e96a07-5bc8-4834-9d97-ad25735a8877" style="width: 48%;">
+  <img src="https://github.com/user-attachments/assets/45414ed5-a950-413b-9938-3cbf10d46986" style="height: 500px; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/28e96a07-5bc8-4834-9d97-ad25735a8877" style="height: 500px;">
 </div>
+
 
 
 
