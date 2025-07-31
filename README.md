@@ -6,12 +6,14 @@
 
  Backend : (https://agribot-jy5w.onrender.com/) (Render)
 
- GitHub Repository: 
+ GitHub Repository: (https://github.com/LokVinay/Agribot)
 
 # 📸 Preview
-<img width="545" height="915" alt="image" src="https://github.com/user-attachments/assets/45414ed5-a950-413b-9938-3cbf10d46986" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45414ed5-a950-413b-9938-3cbf10d46986" alt="Screenshot 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/28e96a07-5bc8-4834-9d97-ad25735a8877" alt="Screenshot 2" width="45%" />
+</p>
 
-<img width="582" height="757" alt="image" src="https://github.com/user-attachments/assets/28e96a07-5bc8-4834-9d97-ad25735a8877" />
 
 
 #🔍 Features
@@ -32,12 +34,14 @@ Fully responsive web interface
 Deployed and accessible publicly
 
 
+
 ## 👨‍💻 Contributors
 
 | Name            | GitHub Profile                                                   |
 |-----------------|------------------------------------------------------------------|
 | Lok Vinay       | [@LokVinay](https://github.com/LokVinay)                         |
 | Pratheek Reddy  | [@ReddammagariPratheekReddy](https://github.com/ReddammagariPratheekReddy) |
+
 
 
 # Getting Started with Create React App
