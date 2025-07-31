@@ -9,12 +9,16 @@
  GitHub Repository: (https://github.com/LokVinay/Agribot)
 
 # 📸 Preview
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/45414ed5-a950-413b-9938-3cbf10d46986" alt="Screenshot 1" height="300px" />
-  <img src="https://github.com/user-attachments/assets/28e96a07-5bc8-4834-9d97-ad25735a8877" alt="Screenshot 2" height="300px" />
-</p>
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/45414ed5-a950-413b-9938-3cbf10d46986" width="100%" height="300px"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/28e96a07-5bc8-4834-9d97-ad25735a8877" width="100%" height="300px"/>
+    </td>
+  </tr>
+</table>
 
 
 #🔍 Features
