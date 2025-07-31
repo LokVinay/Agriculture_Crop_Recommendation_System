@@ -1,4 +1,36 @@
-# 🌱 Agriculture Crop Recommendation System
+# 🌾 Agriculture Crop Recommendation System
+
+
+# 🚀 Live Demo :
+ Frontend: (https://agribot-xi.vercel.app/) (Vercel)
+
+ Backend : (https://agribot-jy5w.onrender.com/) (Render)
+
+ GitHub Repository: 
+
+# 📸 Preview
+<img width="545" height="915" alt="image" src="https://github.com/user-attachments/assets/45414ed5-a950-413b-9938-3cbf10d46986" />
+
+<img width="582" height="757" alt="image" src="https://github.com/user-attachments/assets/28e96a07-5bc8-4834-9d97-ad25735a8877" />
+
+
+#🔍 Features
+Predicts the most suitable crop using:
+-------------------------------------
+N, P, K levels in the soil
+
+pH level
+
+Temperature & Humidity (auto/manual using OpenWeatherMap API)
+
+Rainfall (simulated)
+
+Real-time weather data integration
+
+Fully responsive web interface
+
+Deployed and accessible publicly
+
 
 ## 👨‍💻 Contributors
 
